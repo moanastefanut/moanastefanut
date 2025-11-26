@@ -22,6 +22,6 @@
 
   <!-- Other Tools -->
   <b>Other Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=vscode,vmware,ida,x64dbg" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode" /><br>
 
 </p>
