@@ -11,12 +11,12 @@
 <p align="center">
 
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=javscript,python,typescript,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,python,typescript,html,css" /><br>
 
   <br>
 
   <b>Frameworks & Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,flask,vite,reactnative" /><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flask,vite" /><br>
 
   <br>
 
