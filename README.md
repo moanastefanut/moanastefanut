@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/mitro1337">
-    <img src="https://img.shields.io/badge/GitHub-mitro1337-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/moanastefanut">
+    <img src="https://img.shields.io/badge/GitHub-moanastefanut-181717?style=for-the-badge&logo=github" />
 </p>
 
 
